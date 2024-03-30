@@ -1,0 +1,10 @@
+body{
+    background-color: hsl(44, 100%, 50%);
+    text-align: center;
+}
+p{
+    background-color: hsl(44, 100%, 50%);
+}
+#questions{
+    font-weight: bold;
+}
